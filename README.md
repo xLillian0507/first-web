@@ -1,6 +1,3 @@
-# first-web
-The first web is fantastic!!
-
 **技术要点：**
 
 1、利用jsonfile扫描json文件并读取其中内容；
